@@ -4,8 +4,7 @@ Trip Haven is a web application built with Next.js 14, Tailwind CSS, Shadcn, and
 
 ## Live Website
 
-Please note that the live website at [triphaven.vercel.com](https://triphaven.vercel.com) is not fully functional due to hosting restrictions on Vercel. However, you can explore the codebase and run the application locally to experience its functionality, but find a live demo here.
-
+Please note that the live website at [triphaven.vercel.com](https://triphaven.vercel.com) is not fully functional due to hosting restrictions on Vercel. However, you can explore the codebase and run the application locally to experience its functionality, but find a live demo here. [Demo Video](https://youtu.be/zH6TlsUpo_s)
 ## Features
 
 - **Location-based Search**: Users can search for accommodations based on their desired location.
